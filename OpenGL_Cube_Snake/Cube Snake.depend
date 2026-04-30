@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1777569015 source:c:\snake_game_3d\opengl_cube_snake\main.c
+	"main.h"
+
+1777569949 c:\snake_game_3d\opengl_cube_snake\main.h
+	<GL/freeglut.h>
+	<GL/glext.h>
+	<time.h>
+	"../Library/loadpng.h"
+	"../Library/process_image.h"
+	"../Library/gl_texture.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"afunc.c"
+	"display.c"
+	"font.c"
+	"init.c"
+	"sound.c"
+
+1777568012 c:\snake_game_3d\library\loadpng.h
+	"lodepng.h"
+	"loadpng.c"
+
+1777568012 c:\snake_game_3d\library\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.c"
+
+1777568012 c:\snake_game_3d\library\lodepng.c
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
+1777568012 c:\snake_game_3d\library\loadpng.c
+
+1777568012 c:\snake_game_3d\library\process_image.h
+	<stdlib.h>
+	"process_image.c"
+
+1777568012 c:\snake_game_3d\library\process_image.c
+	"process_image.h"
+
+1777568012 c:\snake_game_3d\library\gl_texture.h
+
+1777568946 c:\snake_game_3d\opengl_cube_snake\afunc.c
+	"main.h"
+
+1777565657 c:\snake_game_3d\opengl_cube_snake\display.c
+	"main.h"
+
+1777565657 c:\snake_game_3d\opengl_cube_snake\font.c
+	"main.h"
+
+1777570025 c:\snake_game_3d\opengl_cube_snake\init.c
+	"main.h"
+
+1777569001 c:\snake_game_3d\opengl_cube_snake\sound.c
+	"main.h"
+
